@@ -18,32 +18,7 @@ A modern Pomodoro Timer application built with React and TypeScript.
 - Styled Components
 - Vite
 
-## Getting Started
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/pomodoro-timer.git
-```
-
-2. Install dependencies:
-
-```bash
-cd pomodoro-timer
-npm install
-```
-
-3. Run the development server:
-
-```bash
-npm run dev
-```
-
-4. Build for production:
-
-```bash
-npm run build
-```
 
 ## Usage
 
@@ -54,6 +29,3 @@ npm run build
 - Click the theme icon to toggle between light and dark modes
 - Click the reset icon next to the Pomodoro count to reset the counter
 
-## License
-
-MIT License
