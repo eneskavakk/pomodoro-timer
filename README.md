@@ -4,12 +4,12 @@ A modern Pomodoro Timer application built with React and TypeScript.
 
 ## Features
 
-- 🕒 Customizable work and break times
-- 🌓 Dark/Light theme support
-- 📊 Pomodoro counter
-- 🔔 Desktop notifications
-- ⚙️ Settings modal
-- 📱 Responsive design
+-  Customizable work and break times
+-  Dark/Light theme support
+-  Pomodoro counter
+-  Desktop notifications
+-  Settings modal
+-  Responsive design
 
 ## Technologies Used
 
